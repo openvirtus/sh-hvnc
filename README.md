@@ -5,11 +5,7 @@
     This script helps launching `vncviewer` in a remote machine. By default
     it uses SSH but you can disable it with -t.
 
-    Usage: hvnc-ovdesk ...
-    
-    This script helps launching a VNC session in a machine.
-    
-    vncviewer-install : Install vncviewer, xlaunch-delayed, ovdesk-connect.
+
 ## DONATIONS
 <ul>
 <li>
